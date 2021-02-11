@@ -4,11 +4,12 @@
   text-align: center;
 }
 
-p span .textarea {
+p span .textarea, p .select {
   display: inline-block;
   max-width: 100px;
   min-width: 20px;
   vertical-align: middle;
+  text-align: center;
 }
 
 .table td.is-selected, .table th.is-selected {
